@@ -2,7 +2,7 @@
 
 💻 Node.js ve JavaScript geliştiricisiyim.  
 🚀 Açık kaynak projelerde katkı sağlamayı seviyorum.  
-📫 Bana ulaş: [Discord](https://discordapp.com/users/1071158799706103859) | [LinkedIn](https://www.linkedin.com/in/ahmetoz)
+📫 Bana ulaş: [Discord](https://discordapp.com/users/1257001827501735948) | [LinkedIn](https://www.linkedin.com/in/ahmetoz)
 
 ---
 
@@ -24,4 +24,4 @@
 ---
 
 ### 🕹️ Discord Durumum
-![Discord Presence](https://lanyard.cnrad.dev/api/1071158799706103859)
+![Discord Presence](https://lanyard.cnrad.dev/api/1257001827501735948)
